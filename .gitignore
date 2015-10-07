@@ -18,3 +18,5 @@ db/
 npm-debug.log
 
 .idea/
+
+.loopbackrc
